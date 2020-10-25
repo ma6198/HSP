@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSP_Algorithmus", "HSP_Algorithmus.csproj", "{587B6C65-8894-4897-BF2B-44F346D42D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587B6C65-8894-4897-BF2B-44F346D42D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587B6C65-8894-4897-BF2B-44F346D42D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587B6C65-8894-4897-BF2B-44F346D42D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587B6C65-8894-4897-BF2B-44F346D42D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {914E854D-23EB-428E-9B07-B30EB18D75A7}
+	EndGlobalSection
+EndGlobal
